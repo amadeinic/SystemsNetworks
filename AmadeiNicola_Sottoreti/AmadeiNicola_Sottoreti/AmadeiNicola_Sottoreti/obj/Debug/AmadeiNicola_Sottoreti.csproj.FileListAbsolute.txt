@@ -1,0 +1,9 @@
+C:\Users\nicol\OneDrive\Scuola\SIR\AmadeiNicola_Sottoreti\AmadeiNicola_Sottoreti\AmadeiNicola_Sottoreti\bin\Debug\AmadeiNicola_Sottoreti.exe.config
+C:\Users\nicol\OneDrive\Scuola\SIR\AmadeiNicola_Sottoreti\AmadeiNicola_Sottoreti\AmadeiNicola_Sottoreti\bin\Debug\AmadeiNicola_Sottoreti.exe
+C:\Users\nicol\OneDrive\Scuola\SIR\AmadeiNicola_Sottoreti\AmadeiNicola_Sottoreti\AmadeiNicola_Sottoreti\bin\Debug\AmadeiNicola_Sottoreti.pdb
+C:\Users\nicol\OneDrive\Scuola\SIR\AmadeiNicola_Sottoreti\AmadeiNicola_Sottoreti\AmadeiNicola_Sottoreti\obj\Debug\AmadeiNicola_Sottoreti.csprojResolveAssemblyReference.cache
+C:\Users\nicol\OneDrive\Scuola\SIR\AmadeiNicola_Sottoreti\AmadeiNicola_Sottoreti\AmadeiNicola_Sottoreti\obj\Debug\AmadeiNicola_Sottoreti.frmMain.resources
+C:\Users\nicol\OneDrive\Scuola\SIR\AmadeiNicola_Sottoreti\AmadeiNicola_Sottoreti\AmadeiNicola_Sottoreti\obj\Debug\AmadeiNicola_Sottoreti.Properties.Resources.resources
+C:\Users\nicol\OneDrive\Scuola\SIR\AmadeiNicola_Sottoreti\AmadeiNicola_Sottoreti\AmadeiNicola_Sottoreti\obj\Debug\AmadeiNicola_Sottoreti.csproj.GenerateResource.Cache
+C:\Users\nicol\OneDrive\Scuola\SIR\AmadeiNicola_Sottoreti\AmadeiNicola_Sottoreti\AmadeiNicola_Sottoreti\obj\Debug\AmadeiNicola_Sottoreti.exe
+C:\Users\nicol\OneDrive\Scuola\SIR\AmadeiNicola_Sottoreti\AmadeiNicola_Sottoreti\AmadeiNicola_Sottoreti\obj\Debug\AmadeiNicola_Sottoreti.pdb

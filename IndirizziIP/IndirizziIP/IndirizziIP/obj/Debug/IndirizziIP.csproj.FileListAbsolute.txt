@@ -1,0 +1,12 @@
+c:\users\nicola\documents\visual studio 2013\Projects\IndirizziIP\IndirizziIP\bin\Debug\IndirizziIP.exe.config
+c:\users\nicola\documents\visual studio 2013\Projects\IndirizziIP\IndirizziIP\bin\Debug\IndirizziIP.exe
+c:\users\nicola\documents\visual studio 2013\Projects\IndirizziIP\IndirizziIP\bin\Debug\IndirizziIP.pdb
+c:\users\nicola\documents\visual studio 2013\Projects\IndirizziIP\IndirizziIP\obj\Debug\IndirizziIP.csprojResolveAssemblyReference.cache
+c:\users\nicola\documents\visual studio 2013\Projects\IndirizziIP\IndirizziIP\obj\Debug\IndirizziIP.frmMain.resources
+c:\users\nicola\documents\visual studio 2013\Projects\IndirizziIP\IndirizziIP\obj\Debug\IndirizziIP.Properties.Resources.resources
+c:\users\nicola\documents\visual studio 2013\Projects\IndirizziIP\IndirizziIP\obj\Debug\IndirizziIP.csproj.GenerateResource.Cache
+c:\users\nicola\documents\visual studio 2013\Projects\IndirizziIP\IndirizziIP\obj\Debug\IndirizziIP.exe
+c:\users\nicola\documents\visual studio 2013\Projects\IndirizziIP\IndirizziIP\obj\Debug\IndirizziIP.pdb
+C:\Users\nicol\OneDrive\Scuola\SIR\IndirizziIP\IndirizziIP\IndirizziIP\bin\Debug\IndirizziIP.exe.config
+C:\Users\nicol\OneDrive\Scuola\SIR\IndirizziIP\IndirizziIP\IndirizziIP\obj\Debug\IndirizziIP.exe
+C:\Users\nicol\OneDrive\Scuola\SIR\IndirizziIP\IndirizziIP\IndirizziIP\obj\Debug\IndirizziIP.pdb
